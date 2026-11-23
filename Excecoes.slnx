@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Excecoes/Excecoes.csproj" />
+  <Project Path="ExercicioArquivos/ExercicioArquivos.csproj" />
+</Solution>
